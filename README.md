@@ -39,7 +39,8 @@
 
 ## 🌐 Connect with me:
 <p align="left">
-  <a href="in/sneha-jain-22b856280" target="_blank">
+  <a href="[LinkedIn](https://www.linkedin.com/in/sneha-jain-22b856280/)
+" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
   </a>
   <a href="sj436837@gmail.com" target="_blank">
