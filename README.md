@@ -27,13 +27,13 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=algolia&margin-w=15&margin-h=15&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=default&margin-w=15&margin-h=15&no-frame=true" />
 </p>
 
 ---
 
 ## 👥 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Sneha14jain&color=default&style=for-the-badge)
 
 ---
 
