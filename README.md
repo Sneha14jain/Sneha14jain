@@ -39,7 +39,7 @@
 
 ## 🌐 Connect with me:
 <p align="left">
-  <a href="[LinkedIn](https://www.linkedin.com/in/sneha-jain-22b856280/)
+  <a href="https://www.linkedin.com/in/sneha-jain-22b856280
 " target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
   </a>
