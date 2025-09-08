@@ -61,8 +61,7 @@
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png"/>
   <img src="https://img.icons8.com/color/48/000000/numpy.png"/>
   <img src="https://img.icons8.com/color/48/000000/pandas.png"/>
-  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/48/external-statistics-data-science-soft-fill-soft-fill-juicy-fish.png"/>
-</p>
+ 
 
 ---
 
