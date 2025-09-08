@@ -54,7 +54,7 @@
 </a>
 
 <a href="https://leetcode.com/u/Sneha_jain90/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/LeetCode_logo_black.png" alt="LeetCode"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/LeetCode_logo_black.png" />
 </a>
 </p>
 
