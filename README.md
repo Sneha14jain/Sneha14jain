@@ -46,9 +46,17 @@
   <a href="sj436837@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
   </a>
-  <a href="https://www.kaggle.com/your-kaggle" target="_blank">
+  <a href="https://www.kaggle.com/snehajainn" target="_blank">
     <img src="https://img.icons8.com/windows/48/1A1A1A/kaggle.png"/>
   </a>
+  <a href="https://www.hackerrank.com/profile/sj436837" target="_blank">
+    <img src="https://img.icons8.com/windows/48/1A1A1A/hackerrank.png"/>
+</a>
+
+<a href="https://leetcode.com/u/Sneha_jain90/" target="_blank">
+    <img src="https://img.icons8.com/windows/48/1A1A1A/leetcode.png"/>
+</a>
+
 </p>
 
 ---
