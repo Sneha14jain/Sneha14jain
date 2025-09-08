@@ -33,7 +33,7 @@
 ---
 
 ## 👥 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=Sneha14jain&color=default&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Sneha14jain&color=brightgreen&style=for-the-badge)
 
 ---
 
@@ -42,7 +42,7 @@
   <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
   </a>
-  <a href="mailto:yourmail@example.com" target="_blank">
+  <a href="sj436837@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
   </a>
   <a href="https://www.kaggle.com/your-kaggle" target="_blank">
@@ -68,8 +68,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sneha14jain&show_icons=true&theme=tokyonight" alt="Sneha's GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha14jain&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sneha14jain&show_icons=true&theme=default" alt="Sneha's GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha14jain&layout=compact&theme=default" alt="Top Languages" height="160"/>
 </p>
 
 ---
