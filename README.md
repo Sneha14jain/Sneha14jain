@@ -27,8 +27,9 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sneha14jain&theme=default&margin-w=15&margin-h=15&no-frame=true" />
+  <img src="https://github-profile-trophy-yourname.vercel.app/?username=Sneha14jain&theme=default&margin-w=15&margin-h=15&no-frame=true" />
 </p>
+
 
 ---
 
