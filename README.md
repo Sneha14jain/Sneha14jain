@@ -74,8 +74,9 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sneha14jain&show_icons=true&theme=default" alt="Sneha's GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha14jain&layout=compact&theme=default" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats-git-masterorg.vercel.app/api?username=Sneha14jain&show_icons=true&theme=default" height="160"/>
+  <img src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=Sneha14jain&layout=compact&theme=default" height="160"/>
 </p>
+
 
 ---
