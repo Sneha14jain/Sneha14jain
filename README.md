@@ -75,8 +75,6 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sneha14jain&show_icons=true" />
-
-  <img src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=Sneha14jain&layout=compact&theme=default" height="160"/>
 </p>
 
 
